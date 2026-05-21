@@ -1,4 +1,4 @@
-# Hi, I'm Hamza Ali 👋
+# Hi, I'm Hamza Muqtaddir 👋
 
 I'm a Junior Laravel Developer from Karachi, Pakistan.
 
@@ -39,7 +39,7 @@ My goal is to become a professional Laravel Developer and build practical web ap
 
 ## Connect with me
 
-- Email: hamz96032@gmail.com
+- Email: hamzamuqtaddir@gmail.com
 - GitHub: https://github.com/
 hamza-web709
 - LinkedIn: https://www.linkedin.com/in/hamza-muqtaddir-bb7587363 
