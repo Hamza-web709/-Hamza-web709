@@ -40,6 +40,5 @@ My goal is to become a professional Laravel Developer and build practical web ap
 ## Connect with me
 
 - Email: hamzamuqtaddir@gmail.com
-- GitHub: https://github.com/
-hamza-web709
+- GitHub: https://github.com/hamza-web709
 - LinkedIn: https://www.linkedin.com/in/hamza-muqtaddir-bb7587363 
